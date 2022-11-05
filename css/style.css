@@ -937,7 +937,7 @@ button:active {
   transition-delay: .15s; }
 
 .team .team-info .title {
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 700;
   color: #fff;
   margin-top: 60px;
@@ -950,7 +950,7 @@ button:active {
   transform: translate3d(#000); }
 
 .team .team-info .post {
-  font-size: 14px;
+  font-size: 10px;
   color: #fff;
   padding: 10px;
   background: #001942;
